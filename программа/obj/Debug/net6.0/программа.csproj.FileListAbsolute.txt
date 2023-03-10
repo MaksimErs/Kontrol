@@ -1,0 +1,15 @@
+C:\Users\mazal\OneDrive\Рабочий стол\контроль\Kontrol\программа\bin\Debug\net6.0\программа.exe
+C:\Users\mazal\OneDrive\Рабочий стол\контроль\Kontrol\программа\bin\Debug\net6.0\программа.deps.json
+C:\Users\mazal\OneDrive\Рабочий стол\контроль\Kontrol\программа\bin\Debug\net6.0\программа.runtimeconfig.json
+C:\Users\mazal\OneDrive\Рабочий стол\контроль\Kontrol\программа\bin\Debug\net6.0\программа.dll
+C:\Users\mazal\OneDrive\Рабочий стол\контроль\Kontrol\программа\bin\Debug\net6.0\программа.pdb
+C:\Users\mazal\OneDrive\Рабочий стол\контроль\Kontrol\программа\obj\Debug\net6.0\программа.csproj.AssemblyReference.cache
+C:\Users\mazal\OneDrive\Рабочий стол\контроль\Kontrol\программа\obj\Debug\net6.0\программа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazal\OneDrive\Рабочий стол\контроль\Kontrol\программа\obj\Debug\net6.0\программа.AssemblyInfoInputs.cache
+C:\Users\mazal\OneDrive\Рабочий стол\контроль\Kontrol\программа\obj\Debug\net6.0\программа.AssemblyInfo.cs
+C:\Users\mazal\OneDrive\Рабочий стол\контроль\Kontrol\программа\obj\Debug\net6.0\программа.csproj.CoreCompileInputs.cache
+C:\Users\mazal\OneDrive\Рабочий стол\контроль\Kontrol\программа\obj\Debug\net6.0\программа.dll
+C:\Users\mazal\OneDrive\Рабочий стол\контроль\Kontrol\программа\obj\Debug\net6.0\refint\программа.dll
+C:\Users\mazal\OneDrive\Рабочий стол\контроль\Kontrol\программа\obj\Debug\net6.0\программа.pdb
+C:\Users\mazal\OneDrive\Рабочий стол\контроль\Kontrol\программа\obj\Debug\net6.0\программа.genruntimeconfig.cache
+C:\Users\mazal\OneDrive\Рабочий стол\контроль\Kontrol\программа\obj\Debug\net6.0\ref\программа.dll
